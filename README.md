@@ -1,3 +1,3 @@
-# MastersCourseDKE
+# Seminar/ Project details
 
-# Seminar :Potentials of visual analytics in epidemiology
+# Seminar : Potentials of visual analytics in epidemiology
